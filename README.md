@@ -12,3 +12,10 @@ Obligations :
 ‐ Une arborescence logique sera créée afin de trouver facilement les fichiers.
 ‐ Lorsqu’un client imprime sa commande, une mise en page adaptée et différente de l’affichage  web.
 ‐ Utiliser un salt (grain de sel) qui s’ajoutera au mot de passe avant de le « hasher » en SHA‐1      afin de garantir une meilleure sécurité. Ex. « salt‐pwd »  ‐ Sécuriser les champs texte contre les injections SQL.
+
+_________________________________________________________
+
+https://codepen.io/teamturret/pen/RPLjEx
+https://www.carronmedia.com/create-an-rss-feed-with-php/
+_________________________________________________________
+
